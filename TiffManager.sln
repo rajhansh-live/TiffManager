@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiffManager", "TiffManager\TiffManager.csproj", "{4AFA978A-CF21-4E31-9875-2145CE70B061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiffManager.Test", "TiffManager.Test\TiffManager.Test.csproj", "{8D32F1E6-FA1B-4ACD-9FD3-CE514018EC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AFA978A-CF21-4E31-9875-2145CE70B061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFA978A-CF21-4E31-9875-2145CE70B061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFA978A-CF21-4E31-9875-2145CE70B061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFA978A-CF21-4E31-9875-2145CE70B061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D32F1E6-FA1B-4ACD-9FD3-CE514018EC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D32F1E6-FA1B-4ACD-9FD3-CE514018EC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D32F1E6-FA1B-4ACD-9FD3-CE514018EC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D32F1E6-FA1B-4ACD-9FD3-CE514018EC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8ECA73E-412C-44B1-8F27-41B2EB1ECA94}
+	EndGlobalSection
+EndGlobal
